@@ -66,6 +66,7 @@ Soumi's PRs :
 [1208]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1211]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1212]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+[1220]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1277]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1278]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1284]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
