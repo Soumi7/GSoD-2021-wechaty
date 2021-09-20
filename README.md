@@ -39,6 +39,7 @@ This issue is for tracking our GSoD'21 progress in updating the **References** s
   - [x] Padlocal
   - [x] FAQ
   - [x] Wxwork
+  - [x] Compatibility
 - [x] **Specifications** 
 - [x] **Deprecation Timeline** 
 
