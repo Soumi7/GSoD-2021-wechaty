@@ -54,6 +54,9 @@ Soumi's PRs :
 | Update Puppet Services : Padlocal [#1278](https://github.com/wechaty/wechaty.js.org/pull/1278) | [Soumi Bardhan](https://github.com/soumi7) | ![1278]
 | Update Puppet Services : FAQ [#1284](https://github.com/wechaty/wechaty.js.org/pull/1284) | [Soumi Bardhan](https://github.com/soumi7) | ![1284]
 | Update Puppet Services : WXWork [#1285](https://github.com/wechaty/wechaty.js.org/pull/1285) | [Soumi Bardhan](https://github.com/soumi7) | ![1285]
+| Update Puppet Services : Lark [#1152](https://github.com/wechaty/wechaty.js.org/pull/1152) | [Soumi Bardhan](https://github.com/soumi7) | ![1152]
+| Update Puppet Services : Whatsapp [#1153](https://github.com/wechaty/wechaty.js.org/pull/1153) | [Soumi Bardhan](https://github.com/soumi7) | ![1153]
+| Update Puppet Services : Compatibility [#1279](https://github.com/wechaty/wechaty.js.org/pull/1279) | [Soumi Bardhan](https://github.com/soumi7) | ![1279]
 
 <!--- Merge Status Badges --->
 <!--- they are linked to the above last columns of the table, 
@@ -72,6 +75,9 @@ Soumi's PRs :
 [1284]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1285]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+[1152]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+[1153]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+[1279]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 
 
 
