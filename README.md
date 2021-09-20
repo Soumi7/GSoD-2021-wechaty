@@ -25,20 +25,20 @@ This issue is for tracking our GSoD'21 progress in updating the **References** s
 - [x] **Polyglot**
 - [x] **Puppet Providers**
   - [x] Overview
-  - [ ] Wechat
-  - [ ] Gitter
-  - [ ] Padlocal
-  - [ ] Official Account
-  - [ ] service
+  - [x] Wechat
+  - [x] Gitter
+  - [x] Padlocal
+  - [x] Official Account
+  - [x] service
   - [x] Lark
   - [x] Whatsapp
   - [x] Wechat
   - [x] Mock
 - [x] **Puppet Services**
-  - [ ] Overview
-  - [ ] Padlocal
-  - [ ] FAQ
-  - [ ] Wxwork
+  - [x] Overview
+  - [x] Padlocal
+  - [x] FAQ
+  - [x] Wxwork
 - [x] **Specifications** 
 - [x] **Deprecation Timeline** 
 
