@@ -40,7 +40,7 @@ You can find all PRs done by us in the links below:
 
 | Week | Pull Requests  | Technical Writer  | Status |
 | --- | --- | --- | --- |
-| 1 | Add instructions and interactive sandbox for Vorpal [#779](https://github.com/wechaty/wechaty.js.org/pull/779) | [Souvik Biswas](https://github.com/sbis04) | ![779]
+| 1 | Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
 
 
 <!--- Merge Status Badges --->
