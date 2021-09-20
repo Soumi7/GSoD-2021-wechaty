@@ -74,21 +74,20 @@ Soumi's PRs :
       to add just use the correct PR number and use the same format --->
 
 [1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1108]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1110]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1195]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1208]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1211]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1212]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1220]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1277]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1278]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1284]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1285]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1152]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1153]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
-[1279]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+[1108]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1108?style=flat-square
+[1110]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1110?style=flat-square
+[1195]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1195?style=flat-square
+[1208]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1208?style=flat-square
+[1211]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1211?style=flat-square
+[1212]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1212?style=flat-square
+[1220]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1220?style=flat-square
+[1277]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1277?style=flat-square
+[1278]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1278?style=flat-square
+[1284]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1284?style=flat-square
+[1285]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1285?style=flat-square
+[1152]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1152?style=flat-square
+[1153]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1153?style=flat-square
+[1279]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1279?style=flat-square
 
 
 
