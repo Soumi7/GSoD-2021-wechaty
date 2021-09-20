@@ -77,7 +77,7 @@ Soumi's PRs :
 
 Shradhha's PRs :
 
-| Week | Pull Requests  | Technical Writer  | Status |
+| Pull Requests  | Technical Writer  | Status |
 | --- | --- | --- |
 | Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
 
