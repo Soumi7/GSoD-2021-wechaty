@@ -47,7 +47,7 @@ You can find all PRs done by us in the links below:
 <!--- they are linked to the above last columns of the table, 
       to add just use the correct PR number and use the same format --->
 
-[1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/779?style=flat-square
+[1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
 [780]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/780?style=flat-square
 [791]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/791?style=flat-square
 [882]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/882?style=flat-square
