@@ -40,20 +40,20 @@ You can find all PRs done by us in the links below:
 
 Soumi's PRs :
 
-| Week | Pull Requests  | Technical Writer  | Status |
-| --- | --- | --- | --- |
-| 1 | Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
-| 1 | Update Puppet Providers : WeChat [#1108](https://github.com/wechaty/wechaty.js.org/pull/1108) | [Soumi Bardhan](https://github.com/soumi7) | ![1108]
-| 2 | Update Puppet Providers : Gitter [#1110](https://github.com/wechaty/wechaty.js.org/pull/1110) | [Soumi Bardhan](https://github.com/soumi7) | ![1110]
-| 2 | Update Puppet Providers : Padlocal [#1195](https://github.com/wechaty/wechaty.js.org/pull/1195) | [Soumi Bardhan](https://github.com/soumi7) | ![1195]
-| 3 | Update Puppet Providers : Official Account [#1208](https://github.com/wechaty/wechaty.js.org/pull/1208) | [Soumi Bardhan](https://github.com/soumi7) | ![1208]
-| 3 | Update Puppet Providers : WeChat4U [#1211](https://github.com/wechaty/wechaty.js.org/pull/1211) | [Soumi Bardhan](https://github.com/soumi7) | ![1211]
-| 4 | Update Puppet Providers : Service [#1212](https://github.com/wechaty/wechaty.js.org/pull/1212) | [Soumi Bardhan](https://github.com/soumi7) | ![1212]
-| 4 | Update Puppet Providers : Mock [#1220](https://github.com/wechaty/wechaty.js.org/pull/1220) | [Soumi Bardhan](https://github.com/soumi7) | ![1220]
-| 5 | Update Puppet Services : Overview [#1277](https://github.com/wechaty/wechaty.js.org/pull/1277) | [Soumi Bardhan](https://github.com/soumi7) | ![1277]
-| 7 | Update Puppet Services : Padlocal [#1278](https://github.com/wechaty/wechaty.js.org/pull/1278) | [Soumi Bardhan](https://github.com/soumi7) | ![1278]
-| 8 | Update Puppet Services : FAQ [#1284](https://github.com/wechaty/wechaty.js.org/pull/1284) | [Soumi Bardhan](https://github.com/soumi7) | ![1284]
-| 9 | Update Puppet Services : WXWork [#1285](https://github.com/wechaty/wechaty.js.org/pull/1285) | [Soumi Bardhan](https://github.com/soumi7) | ![1285]
+| Pull Requests  | Technical Writer  | Status |
+| --- | --- | --- |
+| Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
+| Update Puppet Providers : WeChat [#1108](https://github.com/wechaty/wechaty.js.org/pull/1108) | [Soumi Bardhan](https://github.com/soumi7) | ![1108]
+| Update Puppet Providers : Gitter [#1110](https://github.com/wechaty/wechaty.js.org/pull/1110) | [Soumi Bardhan](https://github.com/soumi7) | ![1110]
+| Update Puppet Providers : Padlocal [#1195](https://github.com/wechaty/wechaty.js.org/pull/1195) | [Soumi Bardhan](https://github.com/soumi7) | ![1195]
+| Update Puppet Providers : Official Account [#1208](https://github.com/wechaty/wechaty.js.org/pull/1208) | [Soumi Bardhan](https://github.com/soumi7) | ![1208]
+| Update Puppet Providers : WeChat4U [#1211](https://github.com/wechaty/wechaty.js.org/pull/1211) | [Soumi Bardhan](https://github.com/soumi7) | ![1211]
+| Update Puppet Providers : Service [#1212](https://github.com/wechaty/wechaty.js.org/pull/1212) | [Soumi Bardhan](https://github.com/soumi7) | ![1212]
+| Update Puppet Providers : Mock [#1220](https://github.com/wechaty/wechaty.js.org/pull/1220) | [Soumi Bardhan](https://github.com/soumi7) | ![1220]
+| Update Puppet Services : Overview [#1277](https://github.com/wechaty/wechaty.js.org/pull/1277) | [Soumi Bardhan](https://github.com/soumi7) | ![1277]
+| Update Puppet Services : Padlocal [#1278](https://github.com/wechaty/wechaty.js.org/pull/1278) | [Soumi Bardhan](https://github.com/soumi7) | ![1278]
+| Update Puppet Services : FAQ [#1284](https://github.com/wechaty/wechaty.js.org/pull/1284) | [Soumi Bardhan](https://github.com/soumi7) | ![1284]
+| Update Puppet Services : WXWork [#1285](https://github.com/wechaty/wechaty.js.org/pull/1285) | [Soumi Bardhan](https://github.com/soumi7) | ![1285]
 
 <!--- Merge Status Badges --->
 <!--- they are linked to the above last columns of the table, 
@@ -78,7 +78,7 @@ Soumi's PRs :
 Shradhha's PRs :
 
 | Week | Pull Requests  | Technical Writer  | Status |
-| --- | --- | --- | --- |
-| 1 | Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
+| --- | --- | --- |
+| Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
 
 [1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
