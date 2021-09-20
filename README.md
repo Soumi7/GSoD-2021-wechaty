@@ -24,11 +24,21 @@ This issue is for tracking our GSoD'21 progress in updating the **References** s
     - [x] wechaty-event-functions
 - [x] **Polyglot**
 - [x] **Puppet Providers**
+  - [x] Overview
+  - [ ] Wechat
+  - [ ] Gitter
+  - [ ] Padlocal
+  - [ ] Official Account
+  - [ ] service
   - [x] Lark
   - [x] Whatsapp
   - [x] Wechat
   - [x] Mock
 - [x] **Puppet Services**
+  - [ ] Overview
+  - [ ] Padlocal
+  - [ ] FAQ
+  - [ ] Wxwork
 - [x] **Specifications** 
 - [x] **Deprecation Timeline** 
 
