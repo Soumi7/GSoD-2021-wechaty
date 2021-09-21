@@ -5,7 +5,7 @@ This issue is for tracking our GSoD'21 progress in updating the **References** s
 ## Team members
 
 * Soumi Bardhan ([@Soumi7](https://github.com/Soumi7))
-* Shraddha V Prasad ([@Shraddhavp](https://github.com/shraddhavp)
+* Shraddha V Prasad ([@Shraddhavp](https://github.com/shraddhavp))
 
 ## References 
 
