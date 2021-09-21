@@ -36,7 +36,7 @@ This issue is for tracking our GSoD'21 progress in updating the **References** s
 
 You can find all PRs done by us in the links below:
 * [Soumi's PRs](https://github.com/wechaty/wechaty.js.org/pulls?q=is%3Apr+author%3Asoumi7)
-* [Shraddha's PRs](https://github.com/wechaty/wechaty.js.org/pulls?q=is%3Apr+author%3A<add name>?)
+* [Shraddha's PRs](https://github.com/wechaty/wechaty.js.org/pulls?q=is%3Apr+author%3Ashraddhavp+)
 
 Soumi's PRs :
 
