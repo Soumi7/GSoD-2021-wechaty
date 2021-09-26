@@ -89,12 +89,47 @@ Soumi's PRs :
 [1153]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1153?style=flat-square
 [1279]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1279?style=flat-square
 
-
+[933]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/933?style=flat-square
+[965]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/965?style=flat-square
+[972]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/972?style=flat-square
+[1013]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1013?style=flat-square
+[1050]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1050?style=flat-square
+[1057]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1057?style=flat-square
+[1096]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1096?style=flat-square
+[1100]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1100?style=flat-square
+[1156]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1156?style=flat-square
+[1231]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1231?style=flat-square
+[1231]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1231?style=flat-square
+[1233]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1233?style=flat-square
+[1261]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1261?style=flat-square
+[1265]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1265?style=flat-square
+[1273]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1273?style=flat-square
+[1283]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1283?style=flat-square
+[1286]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1286?style=flat-square
+[1289]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1289?style=flat-square
+[1290]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1290?style=flat-square
+[1294]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1294?style=flat-square
 
 Shradhha's PRs :
 
 | Pull Requests  | Technical Writer  | Status |
 | --- | --- | --- |
-| Update Puppet Providers overview [#1107](https://github.com/wechaty/wechaty.js.org/pull/1107) | [Soumi Bardhan](https://github.com/soumi7) | ![1107]
-
-[1107]:https://img.shields.io/github/pulls/detail/state/wechaty/wechaty.js.org/1107?style=flat-square
+| Week-4 added the Wechaty environment variables [#933](https://github.com/wechaty/wechaty.js.org/pull/933) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![933]
+| Week-5 Updated the Wechaty Puppet Service [#965](https://github.com/wechaty/wechaty.js.org/pull/965) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![965]
+| Week-6 Updated the puppet.md file[#972](https://github.com/wechaty/wechaty.js.org/pull/972) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![972]
+| Week-7 Wechaty Polyglot  [#1013](https://github.com/wechaty/wechaty.js.org/pull/1013) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1013]
+| Updated the Go-Wechaty  [#1050](https://github.com/wechaty/wechaty.js.org/pull/1050) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1050]
+| Update the Python-Wechaty  [#1057](https://github.com/wechaty/wechaty.js.org/pull/1057) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1057]
+|Scala-Wechaty  [#1096](https://github.com/wechaty/wechaty.js.org/pull/1096) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1096]
+| The .NET Wechaty  [#1100](https://github.com/wechaty/wechaty.js.org/pull/1100) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1100]
+| The PHP-Wechaty  [#1156](https://github.com/wechaty/wechaty.js.org/pull/1156) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1156]
+| Rust-Wechaty  [#1231](https://github.com/wechaty/wechaty.js.org/pull/1231) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1231]
+|Added Polyglot Architecture image  [#1233](https://github.com/wechaty/wechaty.js.org/pull/1233) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1233]
+| Updated the API references overview section   [#1261](https://github.com/wechaty/wechaty.js.org/pull/1261) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1261]
+| Updated room-invitation section   [#1265](https://github.com/wechaty/wechaty.js.org/pull/1265) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1265]
+| changed the side label for resolving the left bar navigation [#1273](https://github.com/wechaty/wechaty.js.org/pull/1273) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1273]
+| Updated the Polyglot Do it yourself section [#1283](https://github.com/wechaty/wechaty.js.org/pull/1283) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1283]
+| Update Main references overview [#1286](https://github.com/wechaty/wechaty.js.org/pull/1286) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1286]
+| Update the friendship class section  [#1289](https://github.com/wechaty/wechaty.js.org/pull/1289) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1289]
+| Update contacts in API references  [#1290](https://github.com/wechaty/wechaty.js.org/pull/1290) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1290]
+| Updated the Room section in API references   [#1294](https://github.com/wechaty/wechaty.js.org/pull/1294) | [Shraddha Vasant Prasad](https://github.com/shraddhavp) | ![1294]
